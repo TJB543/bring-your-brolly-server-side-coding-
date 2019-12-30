@@ -1,0 +1,19 @@
+{
+  "name": "basic_server_side_program",
+  "version": "1.0.0",
+  "description": "a basic server side program!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server",
+    "programming"
+  ],
+  "author": "Tobey Bell",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}
